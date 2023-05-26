@@ -1,1 +1,4 @@
 MLP_Iris_Setosa.ipynb	::	MLPClassifier with iris setosa database and studies
+Feedforward_Matrix.ipynb  :: Example Feedforward using matrix
+
+
