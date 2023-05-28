@@ -1,4 +1,6 @@
-MLP_Iris_Setosa.ipynb	::	MLPClassifier with iris setosa database and studies
-Feedforward_Matrix.ipynb  :: Example Feedforward using matrix
+MLP_Iris_Setosa.ipynb  ::  MLPClassifier with iris setosa database and studies
+Feedforward_Matrix.ipynb  ::  Example Feedforward using matrix
+Regressao_RedeNeural_Unidimensional.ipynb :: Regressão com rede neural com 1 variável previsora
+Regressao_RedeNeural_Multidimensional.ipynb  ::  Regressão com rede neural com múltiplas variáveis previsoras
 
 
