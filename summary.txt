@@ -2,5 +2,8 @@ MLP_Iris_Setosa.ipynb  ::  MLPClassifier with iris setosa database and studies
 Feedforward_Matrix.ipynb  ::  Example Feedforward using matrix
 Regressao_RedeNeural_Unidimensional.ipynb :: Neural regression with 1 predict variable
 Regressao_RedeNeural_Multidimensional.ipynb  ::  Neural regression multidimension
-
+Classificacao_com_Rede_Neural.ipnb  ::  Neural Classifier application
+credit_data.csv  ::  Bank credit dataset
+credit.pkl  ::  Preprocessed dataset
+rede_neural_finalizado.sav  ::  Saved trained classifier
 
