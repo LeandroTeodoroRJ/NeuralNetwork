@@ -4,6 +4,8 @@ Regressao_RedeNeural_Unidimensional.ipynb :: Neural regression with 1 predict va
 Regressao_RedeNeural_Multidimensional.ipynb  ::  Neural regression multidimension
 Classificacao_com_Rede_Neural.ipnb  ::  Neural Classifier application
 credit_data.csv  ::  Bank credit dataset
+house_prices.csv  ::  House prices dataset
 credit.pkl  ::  Preprocessed dataset
 rede_neural_finalizado.sav  ::  Saved trained classifier
-
+Regressao_multidimensional_tensorflow  ::  Regression using TensorFlow (House Prices dataset)
+TensorFlow_IrisSetosa_Classifier  ::  Classifier using TensorFlow (Iris Setosa dataset)
